@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: October 20, 2020
-Assignment: Using conditional statements and try/catch blocks to handle exceptions and logical input errors
-*/
+// Using loops and conditional statements to create a unit converter program
+
 import hsa.Console;
 
 // UnitConverterZ class
