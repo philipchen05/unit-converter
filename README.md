@@ -1,2 +1,2 @@
 # unit-converter
-Mass conversion program created in Java.
+Imperial-Metric mass conversion program created in Java with Ready To Program IDE.
